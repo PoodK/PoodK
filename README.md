@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @PoodK
-- 👀 I’m interested in webdev
-- 🌱 I’m currently learning js
-- 📫 How to reach me: discord: yourmum#0001
+### languages
+PHP, JS, LUA
+
+### contact
+PoodK#0001
